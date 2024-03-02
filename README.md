@@ -5,16 +5,18 @@ I was given the task of creating a tutorial defining a Regular Expression. A reg
 /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
 
 The regex components I have described in this tutorial are Anchors, Quantifiers, Character Classes, Grouping and Capturing, and Bracket Expressions. After the making of this tutorial, I have a much better understanding of regular expressions. I hope the tutorial will do the same for you.
+Here is the link to my gist
+<script src="https://gist.github.com/jaschmidt22/ea23d286820da559912abaa653a1eb4f.js"></script>
 
-Credits
+## Credits
 
 Throughout the making of this tutorial, I frequently referenced javascript.info, The full stack blog, Regexr.com, MDN Webdocs, and Google. 
 
-Contact Info
+## Contact Info
 
 jessicaschmidt22@yahoo.com
 
-License
+## License
 
 MIT License - License
 
